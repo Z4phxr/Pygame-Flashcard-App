@@ -37,7 +37,7 @@ A simple flashcard application built with Python and Pygame, inspired by Anki. T
 
 This application was created as a personal project and educational exercise. 
 It is not intended as a replacement for Anki but rather as a simpler alternative for learning GUI programming with Pygame. 
-This project is still in development and not yet feature-complete. Some features may change.
+This project is still in development and not yet complete. Some features may change.
 
 ## License
 
