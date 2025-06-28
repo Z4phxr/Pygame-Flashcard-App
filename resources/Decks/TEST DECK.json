@@ -1,0 +1,69 @@
+{
+  "cards": [
+    {
+      "front": "A",
+      "back": "1",
+      "create_date": "2025-06-28T18:08:12.021349",
+      "last_review": null,
+      "interval": 0,
+      "repetition": 0,
+      "easiness": 2.5,
+      "lapses": 0,
+      "scheduled_date": "2025-06-28T18:08:12.021349",
+      "history": [],
+      "status": "new"
+    },
+    {
+      "front": "B",
+      "back": "2",
+      "create_date": "2025-06-28T18:08:14.739573",
+      "last_review": null,
+      "interval": 0,
+      "repetition": 0,
+      "easiness": 2.5,
+      "lapses": 0,
+      "scheduled_date": "2025-06-28T18:08:14.739573",
+      "history": [],
+      "status": "new"
+    },
+    {
+      "front": "C",
+      "back": "3",
+      "create_date": "2025-06-28T18:08:17.155510",
+      "last_review": null,
+      "interval": 0,
+      "repetition": 0,
+      "easiness": 2.5,
+      "lapses": 0,
+      "scheduled_date": "2025-06-28T18:08:17.155510",
+      "history": [],
+      "status": "new"
+    },
+    {
+      "front": "D",
+      "back": "4",
+      "create_date": "2025-06-28T18:08:20.676569",
+      "last_review": null,
+      "interval": 0,
+      "repetition": 0,
+      "easiness": 2.5,
+      "lapses": 0,
+      "scheduled_date": "2025-06-28T18:08:20.676569",
+      "history": [],
+      "status": "new"
+    },
+    {
+      "front": "E",
+      "back": "5",
+      "create_date": "2025-06-28T18:08:23.090366",
+      "last_review": null,
+      "interval": 0,
+      "repetition": 0,
+      "easiness": 2.5,
+      "lapses": 0,
+      "scheduled_date": "2025-06-28T18:08:23.090366",
+      "history": [],
+      "status": "new"
+    }
+  ]
+}
